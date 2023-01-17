@@ -88,11 +88,11 @@ document.querySelector(".pause9").addEventListener("click",function(){
     audio9.pause();
 });
 
-var audio10=new Audio("yt1s.com - Ved Lavlay.mp3");
+var audio10=new Audio("yt1s.com - Ved Tujha  Official Song  Riteish Deshmukh  Jiya Shankar  Ajay  Atul  30th December.mp3");
 document.querySelector(".playbuton10").addEventListener("click",function(){
     audio10.play();
 });
-var audio10=new Audio("yt1s.com - Ved Lavlay.mp3");
+var audio10=new Audio("yt1s.com - Ved Tujha  Official Song  Riteish Deshmukh  Jiya Shankar  Ajay  Atul  30th December.mp3");
 document.querySelector(".pause10").addEventListener("click",function(){
     audio10.pause();
 });
