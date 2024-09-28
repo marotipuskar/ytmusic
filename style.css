@@ -1,7 +1,8 @@
-body{
-    background-color: black !important;
+/* background-color: black !iaportant; */
+/* body{
+    background-color: #FF0000 !important;
     color: #fff !important;
-}
+} */
 .img1{
     position: absolute;
     margin: 0px;
@@ -55,8 +56,10 @@ a{
     margin-right: 30px;
 }
 .firsth1{ 
-    margin-left: 45px;
-    margin-top: 87px;
+    /* margin-left: 45px; */
+    /* margin-top: 87px; */
+    margin-bottom: 30px;
+    /* width: 20px; */
 
 }
 .vithald{
@@ -68,6 +71,11 @@ a{
 .img3{
     width: 250px;
     height: 250px;
+    
+}
+.ii{
+    width: 260px;
+    height: 260px;
     
 }
 .vithhe{
@@ -92,6 +100,7 @@ a{
     margin-left: 40px;
 }
 .firp{
+    padding-top: 0px;
     margin-bottom: 0px;
 }
 p{
@@ -104,6 +113,9 @@ p{
 /* .playbuton{
     
 } */
+.div143{
+    margin-left: 30px;
+}
 .div2{
     margin-left: 330px;
     position: absolute;
@@ -115,6 +127,100 @@ p{
 .div4{
     margin-left: 900px;
     position: absolute;
+}
+.div1:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
+.div143:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
+.div2:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div3:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div4:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div5:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div6:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div7:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div9:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div10:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div11:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div12:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div13:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
+.ae:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
+.dio:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
+.div14:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div15yyy:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div16:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div17:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div18:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div19:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}.div20:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
 }
 .div5{
     margin-left: 1190px;
@@ -129,17 +235,22 @@ p{
     margin-left: 1770px;
 
 }
+.div8:hover{
+    /* box-shadow: 10px 10px 5px lightblue */
+    box-shadow: 0 0 40px whitesmoke;
+    border: 3px solid;
+}
 .div8{
-    margin-left: 30px;
-    margin-top: 30px;
+    margin-left: 40px;
+    margin-top: ;
     position: absolute;
 }
 .div9{
-    margin-left: 340px;
+    margin-left: 320px;
     position: absolute;
 }
 .div10{
-    margin-left: 620px;
+    margin-left: 600px;
     position: absolute;
 }
 .div11{
@@ -156,7 +267,7 @@ p{
     position: absolute;
 }
 .div14{
-    width: 180px;
+    width: 250px;
     margin-left: 1730px;
     
 }
@@ -172,12 +283,12 @@ p{
     position: absolute;
     margin-top: 100px;
 
-    margin-left: 200px;
+    margin-left: 150px;
 }
 
 .div15{
-    margin-top: 40px;
-    margin-left: 1030px;
+    /* margin-top: 40px; */
+    margin-left: 976px;
     margin-top: 162px;
 }
 
@@ -229,4 +340,125 @@ p{
 .img1:hover{
     <i class="fa-solid fa-play"></i>
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    /* background-color: #1a202c; */
+    /* background-color: #3e46568f; */
+    
+    background-color: rgba(0, 0, 0, 0.267);
+
+    color: white;
+    padding: 32px;
+    margin-top: 16px;
+}
+  
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+  
+.social-links h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+  
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+  
+.social-icons a {
+    color: white;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+  
+.social-icons .linkedin:hover {
+    color: #0077b5;
+    /* box-shadow: whitesmoke; */
+}
+  
+.social-icons .instagram:hover {
+    color: #e4405f;
+}
+  
+.social-icons .youtube:hover {
+    color: #ff0000;
+}
+  
+.social-icons .twitter:hover {
+    color: #1da1f2;
+}
+  
+.email-subscription p {
+    font-size: 18px;
+}
+  
+.email-link {
+    display: inline-flex;
+    align-items: center;
+    color: #38b2ac;
+    margin-top: 8px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+  
+.email-link:hover {
+    color: #4fd1c5;
+}
+  
+.email-link i {
+    margin-right: 8px;
+}
+  
+.footer-links {
+    margin-bottom: 24px;
+}
+  
+.footer-links a {
+    margin-right: 24px;
+    color: #38b2ac;
+    font-size: 14px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+  
+.footer-links a:hover {
+    color: #4fd1c5;
+}
+  
+.copyright p {
+    color: #718096;
+    font-size: 12px;
+}
+  
+.copyright a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+  
+.copyright a:hover {
+    color: #00b5d8;
+}
+  
 
